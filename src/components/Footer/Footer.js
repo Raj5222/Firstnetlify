@@ -169,11 +169,11 @@ const Footer = (prop) => {
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
                 <Button target={true} href="https://www.matterdesign.com.au/">
-                  Matter.
+                  Raj Sathavara.
                 </Button>{' '}
                 Powered by{' '}
                 <Button target={true} href="https://jamm.matter.design/">
-                  JAMM.™
+                  Raj Sathavara.
                 </Button>
               </span>
             </div>
